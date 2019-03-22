@@ -1,0 +1,206 @@
+*{
+}
+nav {
+    background-color: #C12127;
+    color: whitesmoke;
+    padding-top: 15px;
+    height: 40px;
+    font-family: 'Roboto';
+}
+
+nav a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+nav .top-left{
+    display: inline-block;
+    padding: 0 0 0 10px;
+}
+
+.top-links {
+    display: inline-block;
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+  }
+  
+  .top-links li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+
+  header{
+      background: rgb(32, 101, 136);
+      position: relative;
+      height: 350px;
+      background-image: url(..//npm/images/city-scape.svg);
+      background-repeat: no-repeat;
+      padding-top: 10px;
+  }
+  
+  header .npm-logo{
+    display: inline;
+    }
+
+    header .npm-logo img{
+        padding-left: 10px;
+        }
+
+    header .npm-logo .npm-logo-img{
+        float: left;
+    }
+    
+    header .npm-logo .npm-search .npm-search-input input{
+        border-style: 1 solid grey;
+        position: relative;
+        margin-left: 10px;
+        margin-right: 10px;
+        height: 39px;
+        width: 70%;
+        background-color: #1F526E;
+        font-size: 16px;
+        padding: 10px;  
+        float: left;
+    }
+
+    header .npm-logo .npm-search .npm-search-button button{
+        float: left;
+        font-size: 34px;
+    }
+
+    header .npm-logo .npm-login a{
+        float: left;
+        margin: 0px 0px 0px 0px;
+        background: none;
+        color: whitesmoke;
+        font-family: 'Roboto';
+        font-size: small;
+    }
+
+    header .npm-logo .npm-bear{
+        float: left;
+    }
+
+
+  header .header-text{
+      width: 800px;
+      margin: 0 auto ;
+      color: white;  
+      font-family: 'Roboto'; 
+      padding-top: 60px;
+  }
+
+  header p{
+      margin: 20 0 50px 0;
+      width: 480px;
+  }
+
+  header a{
+      background: rgb(240, 146, 51);
+      color: white;
+      border-radius: 15px;
+      padding: 5px 10px 5px 10px;
+      margin: 50px 0px 0px 0px;
+      text-decoration: none;
+  }
+
+  .seccion1{
+    background-color: #273448;
+    padding: 40px;
+    color: white;
+    height: 300px;
+    font-family: 'Roboto';
+}
+
+  .seccion1 .imgntxt{
+    margin: 0 auto;
+    width: 800px; 
+  }
+
+  .seccion1 .imgntxt .txt{
+      float: right;
+  }
+
+  .seccion1 .imgntxt a{
+      color: white;
+      text-decoration: none;
+    background: rgb(203, 56, 55);
+    border-radius: 15px;
+    padding: 10px 35px 10px 35px;
+}
+
+.seccion1 .imgntxt .nobutton a{
+    background: none;
+    padding: 0;
+}
+
+.seccion2{
+background-image: url(..//npm/images/forklift.svg);
+background-size: cover;
+margin: 0px auto;
+position: relative;
+font-family: 'Roboto';
+}
+
+.seccion2 .sec3txt{
+    width: 800;
+    color: white;
+    margin: 0px auto;
+    padding: 60px 0 80px 0;
+}
+
+.seccion2 .sec3txt h3{
+    margin: 0px;
+    font-size: 32px;
+}
+
+.seccion2 .sec3txt p{
+    margin: 30px 0 40px 0;
+}
+
+.seccion2 .sec3txt p a{
+    text-decoration: none;
+    background: rgb(49, 68, 88);
+    padding: 10px 15px;
+    margin: 0px;
+    border-radius: 15px;
+    color: white;
+}
+
+.seccion3{
+    margin: 0px auto;
+    width: 800px;
+    text-align: center;
+    font-family: 'Roboto';
+
+}
+
+.seccion3 .sec3txt p{
+    margin: 0 0 40px 0;
+}
+
+.seccion3 .img{
+    float: left;
+    width: 800px;
+    margin: 0 0 30px 0;
+}
+
+.seccion3 .img a{
+    color: rgb(208, 74, 73);
+}
+
+.seccion3 .img1{
+    width: 33%;
+    float: left;
+}
+
+.seccion3 .img2{
+    width: 33%;
+    float: left;
+}
+
+.seccion3 .img3{
+    width: 33%;
+    float: left;
+}
