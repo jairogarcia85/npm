@@ -124,17 +124,26 @@ nav .top-left{
       float: right;
   }
 
+  .seccion1 .imgntxt .txt ul{
+    margin: 20px 0 30px 30px;
+}
+
   .seccion1 .imgntxt a{
-      color: white;
-      text-decoration: none;
+    color: white;
+    text-decoration: none;
     background: rgb(203, 56, 55);
     border-radius: 15px;
     padding: 10px 35px 10px 35px;
 }
 
+
 .seccion1 .imgntxt .nobutton a{
     background: none;
     padding: 0;
+}
+
+.seccion1 .imgntxt .nobutton p{
+    margin: 20px 0 0 0;
 }
 
 .seccion2{
@@ -171,7 +180,7 @@ font-family: 'Roboto';
 }
 
 .seccion3{
-    margin: 0px auto;
+    margin: 40px auto;
     width: 800px;
     text-align: center;
     font-family: 'Roboto';
@@ -186,6 +195,10 @@ font-family: 'Roboto';
     float: left;
     width: 800px;
     margin: 0 0 30px 0;
+}
+
+.seccion3 .img hr{
+    margin: 10px 0 10px 0;
 }
 
 .seccion3 .img a{
