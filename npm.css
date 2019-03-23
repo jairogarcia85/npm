@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
-=======
-*{
->>>>>>> npm/master
 }
 nav {
     background-color: #C12127;
@@ -128,7 +124,6 @@ nav .top-left{
       float: right;
   }
 
-<<<<<<< HEAD
   .seccion1 .imgntxt .txt ul{
     margin: 20px 0 30px 30px;
 }
@@ -136,32 +131,22 @@ nav .top-left{
   .seccion1 .imgntxt a{
     color: white;
     text-decoration: none;
-=======
-  .seccion1 .imgntxt a{
-      color: white;
-      text-decoration: none;
->>>>>>> npm/master
+    color: white;
+    text-decoration: none;
     background: rgb(203, 56, 55);
     border-radius: 15px;
     padding: 10px 35px 10px 35px;
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> npm/master
 .seccion1 .imgntxt .nobutton a{
     background: none;
     padding: 0;
 }
 
-<<<<<<< HEAD
 .seccion1 .imgntxt .nobutton p{
     margin: 20px 0 0 0;
 }
 
-=======
->>>>>>> npm/master
 .seccion2{
 background-image: url(..//npm/images/forklift.svg);
 background-size: cover;
@@ -196,11 +181,7 @@ font-family: 'Roboto';
 }
 
 .seccion3{
-<<<<<<< HEAD
     margin: 40px auto;
-=======
-    margin: 0px auto;
->>>>>>> npm/master
     width: 800px;
     text-align: center;
     font-family: 'Roboto';
@@ -217,13 +198,10 @@ font-family: 'Roboto';
     margin: 0 0 30px 0;
 }
 
-<<<<<<< HEAD
 .seccion3 .img hr{
     margin: 10px 0 10px 0;
 }
 
-=======
->>>>>>> npm/master
 .seccion3 .img a{
     color: rgb(208, 74, 73);
 }
